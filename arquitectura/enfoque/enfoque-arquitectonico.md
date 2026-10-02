@@ -1,4 +1,4 @@
-powershell -Command "New-Item -ItemType Directory -Force -Path 'arquitectura/enfoque' | Out-Null; Set-Content -Path 'arquitectura/enfoque/enfoque-arquitectonico.md' -Encoding UTF8 -Value @'
+
 # PASO 5: DEFINIR PATRONES O ENFOQUE ARQUITECTÓNICO
 
 Las dependencias internas se gestionan mediante **Clean Architecture**.
