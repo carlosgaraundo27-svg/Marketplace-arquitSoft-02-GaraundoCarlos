@@ -7,3 +7,4 @@
 | **DA03** | El sistema debe proteger los datos de usuarios y operaciones de compra. | AC04 – Seguridad | Define mecanismos de autenticación, control de accesos por roles y cifrado en tránsito y reposo. |
 | **DA04** | El sistema debe integrarse con una pasarela de pago externa mediante una API. | RC04 – Pasarela de pago | Exige desacoplar el procesamiento transaccional mediante adaptadores o webhooks para tolerar respuestas asíncronas. |
 | **DA05** | El sistema debe utilizar una API REST para la comunicación entre frontend y backend. | RC03 – API REST | Establece una arquitectura cliente-servidor desacoplada entre la interfaz de usuario y la lógica de negocio. |
+| **DA06** | El sistema debe permitir modificar funionalidades sin afectar innecesariamente otros módulos. | AC05 - Mantenibilidad | Influye en la separación de responsabilidades, modularidad y dependencias internas. |
